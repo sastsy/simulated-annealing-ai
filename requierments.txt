@@ -1,0 +1,5 @@
+tkinter
+math
+networkx
+matplotlib
+random
