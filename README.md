@@ -14,7 +14,7 @@ This repository contains an implementation of the simulated annealing algorithm 
 ## Overview
 
 Simulated annealing is a probabilistic optimization technique used to find approximate solutions to optimization problems. In this implementation, the algorithm is applied to find the shortest Hamilton cycle in a given directed graph. A Hamilton cycle is a cycle that visits each vertex exactly once and returns to the starting vertex.
-<img width="818" alt="Screenshot 2024-03-22 at 12 16 09" src="https://github.com/sastsy/simulated-annealing-ai/assets/53853716/ac55d6f4-7487-471e-aaab-9af2a50afae4">
+<img width="818" alt="Screenshot 2024-03-22 at 12 16 09" src="https://github.com/sastsy/simulated-annealing-ai/assets/53853716/ac55d6f4-7487-471e-aaab-9af2a50afae4" style="display:block;margin:auto;">
 
 
 ## Modification
