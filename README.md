@@ -1,6 +1,6 @@
 # Simulated Annealing Algorithm for Shortest Hamilton Cycle
 
-This repository contains an implementation of the simulated annealing algorithm to find the shortest Hamilton cycle in a graph.
+Аn implementation of simulated annealing algorithm to find the shortest Hamilton cycle in a graph.
 
 ## Contents
 
